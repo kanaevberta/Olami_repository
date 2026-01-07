@@ -4,6 +4,7 @@ Final project for OLAMI AI course 2.0:
 Prompts for AI generations:
 
 Images
+Chat GPT and Nanabanana:
 📱 ПОЛНАЯ КАРУСЕЛЬ «8 ВОПРОСОВ ДЛЯ ШЛОМ-БАЙТ»
 
 Общее описание для поста (вступительный текст): 
