@@ -1,3 +1,4 @@
-# Olami_repository
+# Olami_repository and materials for one Spanish course
 
-Final pet project for OLAMI AI course 2.0
+Final project for OLAMI AI course 2.0:
+
